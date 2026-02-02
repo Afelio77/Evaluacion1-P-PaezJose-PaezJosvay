@@ -26,7 +26,7 @@ Instrucciones breves para ejecutar el proyecto:
 
 2-Instalar dependencias: Ejecuta este comando para descargar las carpetas necesarias de Laravel:  composer install
 
-3-Configurar el archivo .env: * Busca el archivo .env.example, cámbiale el nombre a .env
+3-Configurar el archivo .env: Busca el archivo .env.example, cámbiale el nombre a .env
 
   Abre ese archivo .env y asegúrate de que diga: DB_CONNECTION=sqlite
 
